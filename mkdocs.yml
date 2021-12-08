@@ -1,0 +1,5 @@
+site_name: GOOS BioEco portal documentation
+theme:
+  name: material
+nav:
+  - Home: index.md
