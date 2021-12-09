@@ -2,6 +2,8 @@
 
 This is the documentation for the GOOS BioEco [portal](https://bioeco.goosocean.org/) and [GeoNode](https://geonode.goosocean.org/). More general GeoNode documentation is available at [https://docs.geonode.org/en/master/](https://docs.geonode.org/en/master/).
 
+The source for this documentation is hosted at [https://github.com/iobis/bioeco-docs](https://github.com/iobis/bioeco-docs).
+
 ![geonode](images/geonode.png)
 
 ## How to
