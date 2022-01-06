@@ -8,7 +8,7 @@ documentation is available at <https://docs.geonode.org/en/master/>.
 The source for this documentation is hosted at
 <https://github.com/iobis/bioeco-docs>.
 
-<img src="https://github.com/iobis/bioeco-docs/blob/master/docs/images/homepage.png" width="100%" />
+<img src="images/homepage.png" width="100%" />
 
 ## How to:
 
@@ -18,7 +18,7 @@ Register as a new user or data provider at the top right hand corner of
 the GeoNode GOOS BioEco homepage. You will be prompted to complete basic
 details such as an email address, username and password.
 
-<img src="https://github.com/iobis/bioeco-docs/blob/master/docs/images/Register.png" width="100%" />
+<img src="images/register.png" width="100%" />
 
 #### User account and profile
 
@@ -31,11 +31,11 @@ options can be added and changed. Interaction with other users is
 possible by <span style="color:gray;">**Message User**</span> or <span
 style="color:gray;">**Invite Users**</span>
 
-<img src="https://github.com/iobis/bioeco-docs/blob/master/docs/images/Dropdown_profile.png" width="80%" height="80%" />
+<img src="images/dropdown_profile.png" width="80%" height="80%" />
 
 ### 2. Add monitoring programs
 
-<img src="https://github.com/iobis/bioeco-docs/blob/master/docs/images/Upload_new.png" width="60%" height="70%" style="float:right; padding:15px" />
+<img src="images/upload_new.png" width="60%" height="70%" style="float:right; padding:15px" />
 
 Navigate to the <span style="color:gray;">**Profile**</span> page. A few
 options are available to upload specific data and data types. To create
@@ -66,13 +66,13 @@ created and the progress. Once the upload is complete, click on the
 <span style="color:gray;">**Name**</span> of the layer, which will be
 identical to the name of the files uploaded.
 
-<img src="https://github.com/iobis/bioeco-docs/blob/master/docs/images/Upload_comp.png" width="80%" height="70%" />
+<img src="images/upload_comp.png" width="80%" height="70%" />
 
 By selecting <span style="color:gray;">**Editing Tools**</span> on the
 right hand panel, the matadata, styles and the spacial data layer can be
 edited, removed and managed.
 
-<img src="https://github.com/iobis/bioeco-docs/blob/master/docs/images/Prog_overview.png" width="60%" height="70%" style="float:left; padding:10px" />
+<img src="images/prog_overview.png" width="60%" height="70%" style="float:left; padding:10px" />
 
 Select <span style="color:gray;">**Advanced Edit**</span> under <span
 style="color:gray;">**Metadata**</span> to provide necessary information
@@ -118,7 +118,7 @@ style="color:gray;">**Create**</span>. Alternatively, select <span
 style="color:gray;">**Create Layer**</span> from the <span
 style="color:gray;">**Data**</span> drop down menu.
 
-<img src="https://github.com/iobis/bioeco-docs/blob/master/docs/images/Create_layer.png" width="50%" height="50%" />
+<img src="images/create_layer.png" width="50%" height="50%" />
 
 ### 4. Upload additional documents and files
 
@@ -129,7 +129,7 @@ Alternatively, select <span style="color:gray;">**Upload
 Document**</span> from the <span style="color:gray;">**Data**</span>
 drop down menu.
 
-<img src="https://github.com/iobis/bioeco-docs/blob/master/docs/images/Upload_doc.png" width="90%" height="90%" />
+<img src="images/upload_doc.png" width="90%" height="90%" />
 
 Upload the file from your device and provide a URL for the where
 possible. Select the monitoring program that the newly uploaded document
@@ -149,7 +149,7 @@ GeoNode GOOS BioEco. It further enables the user to perform basic
 functions such as measuring physical distances and browsing locations or
 coordinates.
 
-<img src="https://github.com/iobis/bioeco-docs/blob/master/docs/images/Create_map.png" width="100%" />
+<img src="images/create_map.png" width="100%" />
 
 **A.** Add <span style="color:gray;">**Layers**</span> to a map. Select
 the monitoring program from which a layer should be imported onto the
