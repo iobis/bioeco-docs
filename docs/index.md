@@ -68,7 +68,7 @@ identical to the name of the files uploaded.
 
 <img src="images/upload_comp.png" width="80%" height="70%" />
 
-The provided metadata detail can be viewed by selecting <span style="color:gray;">**Metadata detail**</span>.
+The provided metadata detail can be viewed by selecting <span style="color:gray;">**Metadata detail**</span>:
 
 <img src="images/prog_overview.png" width="60%" height="70%" padding:10px" />
 
