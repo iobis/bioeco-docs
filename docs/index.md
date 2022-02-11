@@ -70,7 +70,7 @@ identical to the name of the files uploaded.
 
 The provided metadata detail can be viewed by selecting <span style="color:gray;">**Metadata detail**</span>.
 
-<img src="images/prog_overview.png" width="60%" height="70%" style="float:left; padding:10px" />
+<img src="images/prog_overview.png" width="60%" height="70%" padding:10px" />
 
 ### 3. Editing metadata
 
@@ -118,7 +118,7 @@ URL in the space provided. The <span style="color:gray;">**Point of
 contact**</span> for the program and data as an institutional email
 address.
 
-### 3. Add additional Attributes
+### 4. Add additional Attributes
 
 Navigate to <span style="color:gray;">**Create a new layer**</span>
 under <span style="color:gray;">**Profile**</span>. Provide a name and
@@ -130,7 +130,7 @@ style="color:gray;">**Data**</span> drop down menu.
 
 <img src="images/create_layer.png" width="50%" height="50%" />
 
-### 4. Upload additional documents and files
+### 5. Upload additional documents and files
 
 Navigate to <span style="color:gray;">**Upload new documents**</span>
 under <span style="color:gray;">**Profile**</span>. Provide a <span
@@ -147,7 +147,7 @@ should be associated with by navigating to the program title under <span
 style="color:gray;">**Link to**</span>. Click <span
 style="color:gray;">**Upload**</span>.
 
-### 5. Create a new map
+### 6. Create a new map
 
 Navigate to <span style="color:gray;">**Create a new map**</span> under
 <span style="color:gray;">**Profile**</span>. Alternatively, select
