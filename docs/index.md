@@ -70,7 +70,7 @@ identical to the name of the files uploaded.
 
 The provided metadata detail can be viewed by selecting <span style="color:gray;">**Metadata detail**</span>:
 
-<img src="images/prog_overview.png" width="60%" height="70%" padding:10px" />
+<img src="images/prog_overview.png" width="60%" height="70%" />
 
 ### 3. Editing metadata
 
@@ -81,8 +81,6 @@ edited, removed and managed.
 <img src="images/edit_layer.png" width="60%" height="70%" style="float:left; padding:10px" />
 
 To edit, or add to the spatial layer select <span style="color:gray;">**Edit data**</span> under <span style="color:gray;">**Layer**</span>.
-
-<img src="images/editing.png" width="60%" height="70%" style="float:left; padding:10px" />
 
 Select <span style="color:gray;">**Advanced Edit**</span> under <span
 style="color:gray;">**Metadata**</span> to provide necessary information
