@@ -191,3 +191,9 @@ selected from the drop down menu or by zooming in or out on the map. The
 actual coordinates of the location at which the mouse point is
 positioned, is showed. In this toolbar, the preferred Coordinate
 reference system (CRS) can also be selected.
+
+### 7. Report an issue
+
+Please report any issues regarding GOOS BioEco GeoNode [here](https://github.com/iobis/bioeco-geonode/issues). 
+
+Issues encountered in the GOOS BioEco portal can be reported [here](https://github.com/iobis/bioeco-app/issues).  
