@@ -20,27 +20,27 @@ details such as an email address, username and password.
 
 <img src="images/register.png" width="100%" />
 <p>&nbsp;</p>
-<img src="images/dropdown_profile.png" width="60%" height="60%" style="float:right; padding:10px" />
+
 
 #### User account and profile
 
-<div style="text-align: justify"> After the details have been completed, you will be signed in and
+<img src="images/dropdown_profile.png" width="60%" height="60%" style="float:right; padding:10px" />
+
+<span style="color:red">cardinals</span>.
+
+After the details have been completed, you will be signed in and
 redirected to the homepage with your username indicated on the top right
 hand corner. An arrow next to the username provides a drop down menu
-with basic user and account options. From the <span
-style="color:gray;">**Profile**</span> page, personal information and
+with basic user and account options. From the <span style="color:gray;">**Profile**</span> page, personal information and
 options can be added and changed. Interaction with other users is
-possible by <span style="color:gray;">**Message User**</span> or <span
-style="color:gray;">**Invite Users**</span> </div>
+possible by <span style="color:gray;">**Message User**</span> or <span style="color:gray;">**Invite Users**</span> 
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ### 2. Add monitoring programs
 
 <img src="images/upload_new.png" width="60%" height="60%" style="float:right; padding:10px" />
 
-<div style="text-align: justify"> Navigate to the <span style="color:gray;">**Profile**</span> page. A few
+Navigate to the <span style="color:gray;">**Profile**</span> page. A few
 options are available to upload specific data and data types. To create
 and upload a new monitoring program, select <span
 style="color:gray;">**Upload new layers**</span>. Alternatively, select
@@ -67,7 +67,7 @@ remain with the owner user only. The upload status will be visible at
 the top of the Upload page along with a time stamp of when the layer was
 created and the progress. Once the upload is complete, click on the
 <span style="color:gray;">**Name**</span> of the layer, which will be
-identical to the name of the files uploaded. The newly created layer and spatial metadata can be viewed by navigating to your layer and selecting <span style="color:gray;">**Metadata detail**</span>:</div>
+identical to the name of the files uploaded. The newly created layer and spatial metadata can be viewed by navigating to your layer and selecting <span style="color:gray;">**Metadata detail**</span>
 
 <p align="center">
   <img width="60%" height="50%" src="images/upload_comp.png">
@@ -75,7 +75,7 @@ identical to the name of the files uploaded. The newly created layer and spatial
 
 ### 3. Editing metadata
 
-<div style="text-align: justify"> By selecting <span style="color:gray;">**Editing Tools**</span> on the
+By selecting <span style="color:gray;">**Editing Tools**</span> on the
 right hand panel, the matadata, styles and the spacial data layer can be edited, removed and managed. To edit, or add to the spatial layer select <span style="color:gray;">**Edit data**</span> under <span style="color:gray;">**Layer**</span>. Select <span style="color:gray;">**Advanced Edit**</span> under <span
 style="color:gray;">**Metadata**</span> to provide necessary information
 about the uploaded program. 
@@ -87,45 +87,42 @@ about the uploaded program.
 <img src="images/fields.png" width="70%" height="50%" style="float:left" />
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 #### Program
-<div style="text-align: justify">Provide a <span style="color:gray;">**Title**</span> and an <span style="color:gray;">**Abstract**</span> with a short introduction to/ basic info on the monitoring program. By default the <span style="color:gray;">**Owner**</span> will be indicated as the metadata provider that uploaded the metadata. <span style="color:gray;">**Edition**</span> refers to the version of the cited resource, which could be useful when frequent updates to the metadata are made. 
 
-The field for <span style="color:gray;">**DOI**</span> will be completed by admin and should be left open. <span style="color:gray;">**Maintenance frequency**</span> refer to the intervals in which data is collected/ observations are made. Choose from the drop-down selection. A space is provided for <span style="color:gray;">**Free-text Keywords**</span> that are useful for user filtering options. Select the applicable <span style="color:gray;">**Regions**</span> where the monitoring is done. </div>
+Provide a <span style="color:gray;">**Title**</span> and an <span style="color:gray;">**Abstract**</span> with a short introduction to/ basic info on the monitoring program. By default the <span style="color:gray;">**Owner**</span> will be indicated as the metadata provider that uploaded the metadata. <span style="color:gray;">**Edition**</span> refers to the version of the cited resource, which could be useful when frequent updates to the metadata are made. 
+
+The field for <span style="color:gray;">**DOI**</span> will be completed by admin and should be left open. <span style="color:gray;">**Maintenance frequency**</span> refer to the intervals in which data is collected/ observations are made. Choose from the drop-down selection. A space is provided for <span style="color:gray;">**Free-text Keywords**</span> that are useful for user filtering options. Select the applicable <span style="color:gray;">**Regions**</span> where the monitoring is done.
 
 <p>&nbsp;</p>
 
-
 #### Data accessibility
-<div style="text-align: justify">Provide the <span style="color:gray;">**Licence**</span> licence applicable to the data/ metadata of the program. Choose from the drop-down selection. More info on creative commons licence types and descriptions can be found [here](https://creativecommons.org/licenses/). 
+
+Provide the <span style="color:gray;">**Licence**</span> licence applicable to the data/ metadata of the program. Choose from the drop-down selection. More info on creative commons licence types and descriptions can be found [here](https://creativecommons.org/licenses/). 
 
 <span style="color:gray;">**temporal extent start**</span> and <span style="color:gray;">**temporal extent end**</span> indicate the dates at which the program was implemented or started, and when it ended, in the format dd.mm.yyyy. If it is currently still active, leave the field empty or provide a future date if the program is planned to end at a specific date in the future. 
 
-The fields <span style="color:gray;">**Metadata uploaded preserve**</span>, <span style="color:gray;">**Featured**</span> and <span style="color:gray;">**Is Published**</span> will be completed by admin and can be left empty. </div>
+The fields <span style="color:gray;">**Metadata uploaded preserve**</span>, <span style="color:gray;">**Featured**</span> and <span style="color:gray;">**Is Published**</span> will be completed by admin and can be left empty.
 
 
-<div style="text-align: justify">Provide a URL or link to the main <span style="color:gray;">**Project website**</span> of the monitoring project, a link to <span style="color:gray;">**SOPs**</span> used and/ or <span style="color:gray;">**Outputs**</span>, where available. 
+Provide a URL or link to the main <span style="color:gray;">**Project website**</span> of the monitoring project, a link to <span style="color:gray;">**SOPs**</span> used and/ or <span style="color:gray;">**Outputs**</span>, where available. 
 
 Please indicate whether or not the program data is published on the OBIS database under <span style="color:gray;">**In OBIS**</span> and indicate if the data provider/ project managers are <span style="color:gray;">**Interested in publishing to OBIS**</span>. 
 
 Indicate the funder/s of the monitoring program under <span style="color:gray;">**Funding**</span> and specify the <span style="color:gray;">**Funding sector **</span> of the funder/s by choosing from the drop-down selection. 
 
-An email address for the <span style="color:gray;">**Point of contact**</span> for the responsible person providing the information is required as well as the full name of the <span style="color:gray;">**Metadata author**</span>. </div>
+An email address for the <span style="color:gray;">**Point of contact**</span> for the responsible person providing the information is required as well as the full name of the <span style="color:gray;">**Metadata author**</span>. 
 
 <p>&nbsp;</p>
 
 #### GOOS EOVs
-<div style="text-align: justify">Select all the Biology and Ecosystems Essential Ocean Variables (EOV) observed/ monitored. Choose from the drop-down selection under <span style="color:gray;">**GOOS Essential Ocean Variables (EOVs)**</span>. Multiple selection of EOV’s is possible. 
+
+Select all the Biology and Ecosystems Essential Ocean Variables (EOV) observed/ monitored. Choose from the drop-down selection under <span style="color:gray;">**GOOS Essential Ocean Variables (EOVs)**</span>. Multiple selection of EOV’s is possible. 
 
 Provide the levels of readiness of <span style="color:gray;">**GOOS Readiness - Data management and information products**</span>, <span style="color:gray;">**GOOS Readiness - Coordination of observations elements**</span> and <span style="color:gray;">**GOOS Readiness - Requirement processes**</span> according to the options provided in the drop down menu.The readiness level system is the approach for evaluating new components for possible inclusion in the global ocean observing systems. For more info on the categorization and description of levels, see [A Framework for Ocean Observing](https://unesdoc.unesco.org/ark:/48223/pf0000211260) (specifically pages 8–13).
 
-Additional measurements taken/ observations made of the main EOV (BioEco EOV sub-variables, as well as Physics, Biochemistry, and Cross-disciplinary EOVs) can be provided under <span style="color:gray;">**GOOS Essential Ocean Variable (EOV) subvariables**</span> and <span style="color:gray;">**GOOS Essential Ocean Variables (EOVs): Physics, Biochemistry, and Cross-disciplinary**</span>. Choose from the drop-down selection and add as many rows of sub-variables as needed. For information on, and descriptions of sub-variables, refer to the [GOOS specification sheet](https://www.goosocean.org/index.php?option=com_content&view=article&layout=edit&id=283&Itemid=441) of each respective EOV.</div>
+Additional measurements taken/ observations made of the main EOV (BioEco EOV sub-variables, as well as Physics, Biochemistry, and Cross-disciplinary EOVs) can be provided under <span style="color:gray;">**GOOS Essential Ocean Variable (EOV) subvariables**</span> and <span style="color:gray;">**GOOS Essential Ocean Variables (EOVs): Physics, Biochemistry, and Cross-disciplinary**</span>. Choose from the drop-down selection and add as many rows of sub-variables as needed. For information on, and descriptions of sub-variables, refer to the [GOOS specification sheet](https://www.goosocean.org/index.php?option=com_content&view=article&layout=edit&id=283&Itemid=441) of each respective EOV.
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
