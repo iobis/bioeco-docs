@@ -26,7 +26,6 @@ details such as an email address, username and password.
 
 <img src="images/dropdown_profile.png" width="60%" height="60%" style="float:right; padding:10px" />
 
-<span style="color:red">cardinals</span>.
 
 After the details have been completed, you will be signed in and
 redirected to the homepage with your username indicated on the top right
