@@ -19,13 +19,10 @@ the GeoNode GOOS BioEco homepage. You will be prompted to complete basic
 details such as an email address, username and password.
 
 <img src="images/register.png" width="100%" />
-<p>&nbsp;</p>
-
 
 #### User account and profile
 
 <img src="images/dropdown_profile.png" width="60%" height="60%" style="float:right; padding:10px" />
-
 
 After the details have been completed, you will be signed in and
 redirected to the homepage with your username indicated on the top right
@@ -83,9 +80,8 @@ about the uploaded program.
   <img width="70%" height="70%" src="images/edit_layer.png">
 </p>
 
-<img src="images/fields.png" width="70%" height="50%" style="float:left" />
+<img src="images/fields.png" width="50%" height="50%" style="float:left" />
 
-<p>&nbsp;</p>
 
 #### Program
 
@@ -93,7 +89,6 @@ Provide a <span style="color:gray;">**Title**</span> and an <span style="color:g
 
 The field for <span style="color:gray;">**DOI**</span> will be completed by admin and should be left open. <span style="color:gray;">**Maintenance frequency**</span> refer to the intervals in which data is collected/ observations are made. Choose from the drop-down selection. A space is provided for <span style="color:gray;">**Free-text Keywords**</span> that are useful for user filtering options. Select the applicable <span style="color:gray;">**Regions**</span> where the monitoring is done.
 
-<p>&nbsp;</p>
 
 #### Data accessibility
 
@@ -112,7 +107,6 @@ Indicate the funder/s of the monitoring program under <span style="color:gray;">
 
 An email address for the <span style="color:gray;">**Point of contact**</span> for the responsible person providing the information is required as well as the full name of the <span style="color:gray;">**Metadata author**</span>. 
 
-<p>&nbsp;</p>
 
 #### GOOS EOVs
 
@@ -122,8 +116,6 @@ Provide the levels of readiness of <span style="color:gray;">**GOOS Readiness - 
 
 Additional measurements taken/ observations made of the main EOV (BioEco EOV sub-variables, as well as Physics, Biochemistry, and Cross-disciplinary EOVs) can be provided under <span style="color:gray;">**GOOS Essential Ocean Variable (EOV) subvariables**</span> and <span style="color:gray;">**GOOS Essential Ocean Variables (EOVs): Physics, Biochemistry, and Cross-disciplinary**</span>. Choose from the drop-down selection and add as many rows of sub-variables as needed. For information on, and descriptions of sub-variables, refer to the [GOOS specification sheet](https://www.goosocean.org/index.php?option=com_content&view=article&layout=edit&id=283&Itemid=441) of each respective EOV.
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ### 4. Add additional Attributes
 
