@@ -45,7 +45,7 @@ style="color:gray;">**Data**</span> drop down menu.
 
 Upload your shapefiles by dragging and dropping them to the upload area,
 or upload them from your device by using the <span
-style="color:gray;">**Choose Files**</span> option.
+style="color:gray;">**Choose Files**</span> option. Uploaded files should not exceed a maximum combined size of 100 MB.
 
 Select the correct charset option for your documents and click <span
 style="color:gray;">**Upload files**</span>.
