@@ -72,7 +72,10 @@ identical to the name of the files uploaded. The newly created layer and spatial
 ### 3. Editing metadata
 
 By selecting <span style="color:gray;">**Editing Tools**</span> on the
-right hand panel, the matadata, styles and the spacial data layer can be edited, removed and managed. To edit, or add to the spatial layer select <span style="color:gray;">**Edit data**</span> under <span style="color:gray;">**Layer**</span>. Select <span style="color:gray;">**Advanced Edit**</span> under <span
+right hand panel, the matadata, styles and the spacial data layer can be edited, removed and managed. 
+Only the signed-in owner of a program and admin have access to edit the metadata of a program. If the editing tools are  not available to the owner, it is likely due to the default setting of admin as owner. In this case, please contact admin at s.van-der-wal@unesco.org / helpdesk@obis.org to have the ownership changed and gain access to the editing tools.      
+
+To edit, or add to the spatial layer select <span style="color:gray;">**Edit data**</span> under <span style="color:gray;">**Layer**</span>. Select <span style="color:gray;">**Advanced Edit**</span> under <span
 style="color:gray;">**Metadata**</span> to provide necessary information
 about the uploaded program. 
 
