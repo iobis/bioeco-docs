@@ -90,7 +90,7 @@ about the uploaded program.
 
 Provide a <span style="color:gray;">**Title**</span> and an <span style="color:gray;">**Abstract**</span> with a short introduction to/ basic info on the monitoring program. By default the <span style="color:gray;">**Owner**</span> will be indicated as the metadata provider that uploaded the metadata. <span style="color:gray;">**Edition**</span> refers to the version of the cited resource, which could be useful when frequent updates to the metadata are made. 
 
-The field for <span style="color:gray;">**DOI**</span> will be completed by admin and should be left open. <span style="color:gray;">**Maintenance frequency**</span> refer to the intervals in which data is collected/ observations are made. Choose from the drop-down selection. A space is provided for <span style="color:gray;">**Free-text Keywords**</span> that are useful for user filtering options. Select the applicable <span style="color:gray;">**Regions**</span> where the monitoring is done.
+The field for <span style="color:gray;">**DOI**</span> will be completed by admin and should be left open. <span style="color:gray;">**Maintenance frequency**</span> refer to the intervals in which data is collected/ observations are made. Choose from the drop-down selection. Note, for observations made continuously, select option 'sub-daily' and for once-off observations, select the option 'opportunistically/ highly irregular intervals'. A space is provided for <span style="color:gray;">**Free-text Keywords**</span> that are useful for user filtering options. Select the applicable <span style="color:gray;">**Regions**</span> where the monitoring is done.
 
 
 #### Data accessibility
