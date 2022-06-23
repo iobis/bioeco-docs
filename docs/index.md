@@ -7,6 +7,7 @@ documentation is available at <https://docs.geonode.org/en/master/>. The source 
 <https://github.com/iobis/bioeco-docs>.
 
 <p>&nbsp;</p>
+
 ## Navigating the GOOS BioEco Portal
 
 The portal's main interface **(A)** consist of an interactive global map on which the locations of Biological and Ecosystem EOV observations can be seen. The panel on the left **(B)** shows the total number of programs currently in the portal as well as the total number of programs for specific EOVs. The results in the map can be filtered to show specific **(C)** EOVs, **(D)** EOV sub-variables and EBVs by selecting for them in the panel. Filtering can also be done according to the desired Readiness levels **(E)** of a program. Specific programs can also be filtered/ searched for by filtering for them by name **(F)** or by selecting from the list.
@@ -31,6 +32,7 @@ Contribute your program metadata or explore additional metadata of existing prog
 
 <img src="images/homepage.png" width="100%" />
 <p>&nbsp;</p>
+
 ### 1. Register your GeoNode account
 
 If you would like to contribute a monitoring program(s) to the portal, register as a new user or metadata data provider at the top right hand corner of the GeoNode GOOS BioEco homepage. You will be prompted to provide basic details such as an email address, username and password. This personal information will be used solely for the purposes of maintaining a GeoNode account and gaining exclusive access to edit or maintain your program metadata. This information will not be used or distributed to third parties. 
@@ -149,6 +151,7 @@ Newly contributed programs' spatial metadata should be kept up to date. Equally,
 <img src="images/fields.png" width="50%" height="50%" style="float:left" />
 
 <p>&nbsp;</p>
+
 #### 3.2 Program
 
 Provide a <span style="color:gray;">**Title**</span> and an <span style="color:gray;">**Abstract**</span> with a short introduction to/ basic info on the monitoring program. The <span style="color:gray;">**Owner**</span> will be indicated as the metadata provider that uploaded the metadata indicated either by their email address or username. <span style="color:gray;">**Edition**</span> refers to the version of the cited resource, which could be useful when frequent updates to the metadata are made. 
@@ -156,6 +159,7 @@ Provide a <span style="color:gray;">**Title**</span> and an <span style="color:g
 The field for <span style="color:gray;">**DOI**</span> will be completed by admin and should be left open. <span style="color:gray;">**Maintenance frequency**</span> refer to the intervals in which data is collected/ observations are made. Choose from the drop-down selection. Note, for observations made continuously, select option 'sub-daily' and for once-off observations, select the option 'opportunistically/ highly irregular intervals'. A space is provided for <span style="color:gray;">**Free-text Keywords**</span> that are useful for user filtering options. Select the applicable <span style="color:gray;">**Regions**</span> where the monitoring is done, please refrain from selecting <span style="color:gray;">**Global**</span> as the region and provide more specific regions.
 
 <p>&nbsp;</p>
+
 #### 3.3 Data accessibility
 
 Provide the <span style="color:gray;">**Licence**</span> licence applicable to the data/ metadata of the program. Choose from the drop-down selection. More info on creative commons licence types and descriptions can be found [here](https://creativecommons.org/licenses/). 
@@ -173,6 +177,7 @@ Indicate the funder/s of the monitoring program under <span style="color:gray;">
 An email address for the <span style="color:gray;">**Point of contact**</span> for the responsible person providing the information is required as well as the full name of the <span style="color:gray;">**Metadata author**</span>. 
 
 <p>&nbsp;</p>
+
 #### 3.4 GOOS EOVs
 
 Select all the Biology and Ecosystems Essential Ocean Variables (EOV) observed/ monitored. Choose from the drop-down selection under <span style="color:gray;">**GOOS Essential Ocean Variables (EOVs)**</span>. Multiple selection of EOV’s is possible. 
@@ -184,6 +189,7 @@ Additional measurements taken/ observations made of the main EOV (BioEco EOV sub
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
 ### 4. GeoNode map tool and creating a new map
 
 GeoNode's interactive map tool (©OpenStreetMap contributors) is a useful tool for creating maps with
