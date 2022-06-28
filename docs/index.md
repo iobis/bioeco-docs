@@ -151,7 +151,7 @@ Newly contributed programmes' spatial metadata should be kept up to date. Equall
 
 <img src="images/fields.png" width="50%" height="50%" style="float:left" />
 
-#### 3.2 programme
+#### 3.2 Programme
 
 Provide a <span style="color:gray;">**Title**</span> and an <span style="color:gray;">**Abstract**</span> with a short introduction to/ basic info on the monitoring programme. The <span style="color:gray;">**Owner**</span> will be indicated as the metadata provider that uploaded the metadata indicated either by their email address or username. <span style="color:gray;">**Edition**</span> refers to the version of the cited resource, which could be useful when frequent updates to the metadata are made. 
 
