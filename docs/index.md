@@ -13,21 +13,17 @@ documentation is available at <https://docs.geonode.org/en/master/>. The source 
 
 [Video: Navigating the GOOS BioEco Portal](https://www.youtube.com/watch?v=FPUdRK_tZrI)
 
-
 The portal's main interface **(A)** consist of an interactive global map on which the locations of Biological and Ecosystem EOV observations can be seen. Click on a specific location on the map to get a list of programmes for that location. The panel on the left **(B)** shows the total number of programmes currently in the portal as well as the total number of programmes for specific EOVs. The results in the map can be filtered to show specific **(C)** EOVs, **(D)** EOV sub-variables and EBVs by selecting for them in the panel. Filtering can also be done according to the desired Readiness levels **(E)** of a programme. Specific programmes can also be filtered/ searched for by filtering for them by name **(F)** or by selecting from the list.
 
 <p align="center; padding:30px">
   <img width="100%" height="100%" src="images/interface.png"></p>
   
-<p>&nbsp;</p>
-
 When selecting an individual programme, a new panel will open containing all the available metadata for that programme **(G)**, as entered and maintained by the metadata provider for that programme. Clicking on <span style="color:gray;">**ZOOM**</span> **(H)** will direct the interactive map to the location of where the monitoring is done, indicated on the map by red dots for individual locations or by a red polygon for areal locations. If no spatial layer is available for the programme, the zoom option is replaced with <span style="color:gray;">**NO SPATIAL DATA**</span>. Additioanlly, an option to <span style="color:gray;">**REPORT ISSUE**</span> is provided with each programme in case it is needed. 
 
 <p align="center; padding:30px">
   <img width="80%" height="80%" src="images/demo.png">
 </p>
 
-<p>&nbsp;</p>
 
 ## How to contribute?
 
@@ -37,21 +33,17 @@ When selecting an individual programme, a new panel will open containing all the
 
 
 Contribute your programme metadata or explore additional metadata of existing programmes in the portal by navigating to  [GeoNode](https://geonode.goosocean.org/), where new programme metadata is uploaded and existing programme metadata accessed, managed and updated. This documentation and a direct link to the portal is provided on the main page of GeoNode. 
-<p>&nbsp;</p>
 
 <img src="images/homepage.png" width="100%" />
-<p>&nbsp;</p>
 
 ### 1. Register your GeoNode account
 <img src="images/youtube_icon.png" width="3%" height="3%" style="float:left; padding:1px" />
 
 [Video: Register your GeoNode account](https://www.youtube.com/watch?v=FPUdRK_tZrI&t=252s)
 
-
 If you would like to contribute a monitoring programme(s) to the portal, register as a new user or metadata data provider at the top right hand corner of the GeoNode GOOS BioEco homepage. You will be prompted to provide basic details such as an email address, username and password. This personal information will be used solely for the purposes of maintaining a GeoNode account and gaining exclusive access to edit or maintain your programme metadata. This information will not be used or distributed to third parties. 
 
 <img src="images/register.png" width="100%" />
-<p>&nbsp;</p>
 
 <img src="images/dropdown_profile.png" width="60%" height="60%" style="float:right; padding:10px" />
 
@@ -64,17 +56,12 @@ with basic user and account options. From the <span style="color:gray;">**Profil
 options can be added, such as a user picture, your organisation, position, location. Interaction with other users is
 possible by <span style="color:gray;">**Message User**</span> or <span style="color:gray;">**Invite Users**</span> 
 
-<p>&nbsp;</p>
-
 ### 2. Add monitoring programmes
 <img src="images/youtube_icon.png" width="3%" height="3%" style="float:left; padding:1px" />
 
 [Video: Add monitoring programmes](https://www.youtube.com/watch?v=FPUdRK_tZrI&t=309s)
 
-
 GeoNode offers two ways in which new monitoring programmes can be added, which depend on the format of the spatial information of the programme:
-
-<p>&nbsp;</p>
 
 <img src="images/upload_new.png" width="60%" height="60%" style="float:right; padding:10px" />
 
@@ -82,7 +69,6 @@ GeoNode offers two ways in which new monitoring programmes can be added, which d
 <img src="images/youtube_icon.png" width="3%" height="3%" style="float:left; padding:1px" />
 
 [Video: By uploading a shapefile (preferred)](https://www.youtube.com/watch?v=FPUdRK_tZrI&t=322s)
-
 
 If the spatial information for your programme is in the format of a shapefile, navigate to the <span style="color:gray;">**Profile**</span> page. A few
 options are available to upload specific data and data types. To create
@@ -116,13 +102,11 @@ identical to the name of the files uploaded. The newly created layer and spatial
 <p align="center">
   <img width="60%" height="50%" src="images/upload_comp.png">
 </p>
-<p>&nbsp;</p>
 
 #### 2.2 Using the GeoNode map tool
 <img src="images/youtube_icon.png" width="3%" height="3%" style="float:left; padding:1px" />
 
 [Video: Using the GeoNode map tool](https://www.youtube.com/watch?v=FPUdRK_tZrI&t=376s)
-
 
 Alternatively, without a shapefile, navigate to the <span style="color:gray;">**Profile**</span> page. A few
 options are available to upload specific data and data types. To create
@@ -136,18 +120,15 @@ Provide the name of your monitoring programme as <span style="color:gray;">**Lay
 <p align="center">
   <img width="80%" height="80%" src="images/newmap.png">
 </p>
-<p>&nbsp;</p>
 
 Begin by adding an attribute number in the space provided at **(A)** and select the <span style="color:gray;">**Edit mode**</span>. Select <span style="color:gray;">**Add New feature**</span> followed by <span style="color:gray;">**Draw feature**</span>. Using the mouse, navigate on the map and indicate the location. Alternatively, search for a specific location by name or enter your coordinates at the top right hand corner marked **(B)**. The coordinates of the mouse location can also be viewed by clicking on the mouse icon at the bottom right hand corner marked **(C)**. Save your selected location. 
 
 <img src="images/mapfeature.png" width="100%" />
 
-
 ### 3. Editing programme metadata
 <img src="images/youtube_icon.png" width="3%" height="3%" style="float:left; padding:1px" />
 
 [Video: Editing programme metadata](https://www.youtube.com/watch?v=FPUdRK_tZrI&t=493s)
-
 
 Registered users have exclusive access to edit and update the metadata of their assigned programme. Regular updates of programme metadata is essential to keep the BioEco portal current and representing the true current state and status of ocean observation. In order to do so, we encourage on our metadata providers to keep their programme layer up to date as the programme develops and progresses. 
 
@@ -163,7 +144,6 @@ about the uploaded programme.
 <p align="center">
   <img width="70%" height="70%" src="images/edit_layer.png">
 </p>
-<p>&nbsp;</p>
 
 #### 3.1 Updating programme spatial metadata
 
