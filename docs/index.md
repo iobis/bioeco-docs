@@ -12,7 +12,7 @@ documentation is available at <https://docs.geonode.org/en/master/>. The source 
 <img src="images/youtube_icon.png" width="3%" height="3%" style="float:left; padding:1px" />
 
 [Video: Navigating the GOOS BioEco Portal](https://www.youtube.com/watch?v=FPUdRK_tZrI)
-<p>&nbsp;</p>
+
 
 The portal's main interface **(A)** consist of an interactive global map on which the locations of Biological and Ecosystem EOV observations can be seen. Click on a specific location on the map to get a list of programmes for that location. The panel on the left **(B)** shows the total number of programmes currently in the portal as well as the total number of programmes for specific EOVs. The results in the map can be filtered to show specific **(C)** EOVs, **(D)** EOV sub-variables and EBVs by selecting for them in the panel. Filtering can also be done according to the desired Readiness levels **(E)** of a programme. Specific programmes can also be filtered/ searched for by filtering for them by name **(F)** or by selecting from the list.
 
@@ -34,7 +34,7 @@ When selecting an individual programme, a new panel will open containing all the
 <img src="images/youtube_icon.png" width="3%" height="3%" style="float:left; padding:1px" />
 
 [Video: How to contribute](https://www.youtube.com/watch?v=FPUdRK_tZrI&t=216s)
-<p>&nbsp;</p>
+
 
 Contribute your programme metadata or explore additional metadata of existing programmes in the portal by navigating to  [GeoNode](https://geonode.goosocean.org/), where new programme metadata is uploaded and existing programme metadata accessed, managed and updated. This documentation and a direct link to the portal is provided on the main page of GeoNode. 
 <p>&nbsp;</p>
@@ -46,7 +46,7 @@ Contribute your programme metadata or explore additional metadata of existing pr
 <img src="images/youtube_icon.png" width="3%" height="3%" style="float:left; padding:1px" />
 
 [Video: Register your GeoNode account](https://www.youtube.com/watch?v=FPUdRK_tZrI&t=252s)
-<p>&nbsp;</p>
+
 
 If you would like to contribute a monitoring programme(s) to the portal, register as a new user or metadata data provider at the top right hand corner of the GeoNode GOOS BioEco homepage. You will be prompted to provide basic details such as an email address, username and password. This personal information will be used solely for the purposes of maintaining a GeoNode account and gaining exclusive access to edit or maintain your programme metadata. This information will not be used or distributed to third parties. 
 
@@ -70,7 +70,7 @@ possible by <span style="color:gray;">**Message User**</span> or <span style="co
 <img src="images/youtube_icon.png" width="3%" height="3%" style="float:left; padding:1px" />
 
 [Video: Add monitoring programmes](https://www.youtube.com/watch?v=FPUdRK_tZrI&t=309s)
-<p>&nbsp;</p>
+
 
 GeoNode offers two ways in which new monitoring programmes can be added, which depend on the format of the spatial information of the programme:
 
@@ -82,7 +82,7 @@ GeoNode offers two ways in which new monitoring programmes can be added, which d
 <img src="images/youtube_icon.png" width="3%" height="3%" style="float:left; padding:1px" />
 
 [Video: By uploading a shapefile (preferred)](https://www.youtube.com/watch?v=FPUdRK_tZrI&t=322s)
-<p>&nbsp;</p>
+
 
 If the spatial information for your programme is in the format of a shapefile, navigate to the <span style="color:gray;">**Profile**</span> page. A few
 options are available to upload specific data and data types. To create
@@ -122,7 +122,7 @@ identical to the name of the files uploaded. The newly created layer and spatial
 <img src="images/youtube_icon.png" width="3%" height="3%" style="float:left; padding:1px" />
 
 [Video: Using the GeoNode map tool](https://www.youtube.com/watch?v=FPUdRK_tZrI&t=376s)
-<p>&nbsp;</p>
+
 
 Alternatively, without a shapefile, navigate to the <span style="color:gray;">**Profile**</span> page. A few
 options are available to upload specific data and data types. To create
@@ -147,7 +147,7 @@ Begin by adding an attribute number in the space provided at **(A)** and select 
 <img src="images/youtube_icon.png" width="3%" height="3%" style="float:left; padding:1px" />
 
 [Video: Editing programme metadata](https://www.youtube.com/watch?v=FPUdRK_tZrI&t=493s)
-<p>&nbsp;</p>
+
 
 Registered users have exclusive access to edit and update the metadata of their assigned programme. Regular updates of programme metadata is essential to keep the BioEco portal current and representing the true current state and status of ocean observation. In order to do so, we encourage on our metadata providers to keep their programme layer up to date as the programme develops and progresses. 
 
@@ -214,9 +214,6 @@ Provide the levels of readiness of <span style="color:gray;">**GOOS Readiness - 
 
 Additional measurements taken/ observations made of the main EOV (BioEco EOV sub-variables, as well as Physics, Biochemistry, and Cross-disciplinary EOVs) can be provided under <span style="color:gray;">**GOOS Essential Ocean Variable (EOV) subvariables**</span> and <span style="color:gray;">**GOOS Essential Ocean Variables (EOVs): Physics, Biochemistry, and Cross-disciplinary**</span>. Choose from the drop-down selection and add as many rows of sub-variables as needed. For information on, and descriptions of sub-variables, refer to the [GOOS specification sheet](https://www.goosocean.org/index.php?option=com_content&view=article&layout=edit&id=283&Itemid=441) of each respective EOV.
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 ### 4. GeoNode map tool and creating a new map
