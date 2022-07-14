@@ -186,9 +186,13 @@ An email address for the <span style="color:gray;">**Point of contact**</span> f
 
 <p>&nbsp;</p>
 
-#### 3.4 GOOS EOVs
 
-Select all the Biology and Ecosystems Essential Ocean Variables (EOV) observed/ monitored. Choose from the drop-down selection under <span style="color:gray;">**GOOS Essential Ocean Variables (EOVs)**</span>. Multiple selection of EOV’s is possible. 
+#### 3.4 GOOS Essential ocean variables (EOVs)
+
+Select all the GOOS Biology and Ecosystems Essential Ocean Variables (EOV) observed/ monitored. Choose from the drop-down selection under <span style="color:gray;">**GOOS Essential Ocean Variables (EOVs)**</span>. Multiple selection of EOV’s is possible. 
+
+
+#### 3.5 Readiness levels
 
 Provide the levels of readiness of <span style="color:gray;">**GOOS Readiness - Data management and information products**</span>, <span style="color:gray;">**GOOS Readiness - Coordination of observations elements**</span> and <span style="color:gray;">**GOOS Readiness - Requirement processes**</span> according to the options provided in the drop down menu. The readiness level system is the approach for evaluating new components for possible inclusion in the global ocean observing systems. For more info on the categorization and description of levels, see [A Framework for Ocean Observing](https://unesdoc.unesco.org/ark:/48223/pf0000211260) and the figure below.
 
@@ -196,8 +200,9 @@ Provide the levels of readiness of <span style="color:gray;">**GOOS Readiness - 
   <img width="70%" height="70%" src="images/readiness_levels.png">
 </p>
 
-Additional measurements taken/ observations made of the main EOV (BioEco EOV sub-variables, as well as Physics, Biochemistry, and Cross-disciplinary EOVs) can be provided under <span style="color:gray;">**GOOS Essential Ocean Variable (EOV) subvariables**</span> and <span style="color:gray;">**GOOS Essential Ocean Variables (EOVs): Physics, Biochemistry, and Cross-disciplinary**</span>. Choose from the drop-down selection and add as many rows of sub-variables as needed. For information on, and descriptions of sub-variables, refer to the [GOOS specification sheet](https://www.goosocean.org/index.php?option=com_content&view=article&layout=edit&id=283&Itemid=441) of each respective EOV.
+#### 3.6 GOOS EOV subvariables, non-BioEco EOVs and EBVs
 
+Additional measurements taken/ observations made of the BioEco EOV(s) selected under <span style="color:gray;">**GOOS Essential Ocean Variables (EOVs)**</span>, should be provided under <span style="color:gray;">**Essential Ocean subvariables (EOV subvariables) & Essential Biodiversity Variables (EBVs)**</span>. Non-BioEco EOVs, such as Physics, Biochemistry, and Cross-disciplinary EOVs, should be provided under <span style="color:gray;">**GOOS Physics, Biochemistry, and Cross-disciplinary EOVs**</span>. Choose from the drop-down selection and add as many sub-variables as needed. For information on, and descriptions of sub-variables, refer to the [GOOS specification sheet](https://www.goosocean.org/index.php?option=com_content&view=article&layout=edit&id=283&Itemid=441) (under development) of each respective EOV. Information regarding EBVs are provided by GEO BON [(What are EBVs?)](https://geobon.org/ebvs/what-are-ebvs/), with well-defined descriptions of each EBV at the bottom of the latter webpage. 
 
 ### 4. GeoNode map tool and creating a new map
 
