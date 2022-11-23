@@ -16,7 +16,7 @@ documentation is available at <https://docs.geonode.org/en/master/>. The source 
 The portal's main interface **(A)** consist of an interactive global map on which the locations of Biological and Ecosystem EOV observations can be seen. Click on a specific location on the map to get a list of programmes for that location. The panel on the left **(B)** shows the total number of programmes currently in the portal as well as the total number of programmes for specific EOVs. The results in the map can be filtered to show specific **(C)** EOVs, **(D)** EOV sub-variables and EBVs by selecting for them in the panel. Filtering can also be done according to the desired Readiness levels **(E)** of a programme. Specific programmes can also be filtered/ searched for by filtering for them by name **(F)** or by selecting from the list.
 
 <p align="center; padding:30px">
-  <img width="100%" height="100%" src="images/interface.png"></p>
+  <img width="100%" height="100%" src="images/portal_interface.png"></p>
   
 When selecting an individual programme, a new panel will open containing all the available metadata for that programme **(G)**, as entered and maintained by the metadata provider for that programme. Clicking on <span style="color:gray;">**ZOOM**</span> **(H)** will direct the interactive map to the location of where the monitoring is done, indicated on the map by red dots for individual locations or by a red polygon for areal locations. If no spatial layer is available for the programme, the zoom option is replaced with <span style="color:gray;">**NO SPATIAL DATA**</span>. Additioanlly, an option to <span style="color:gray;">**REPORT ISSUE**</span> is provided with each programme in case it is needed. 
 
