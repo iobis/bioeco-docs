@@ -1,8 +1,8 @@
 # GOOS BioEco portal documentation
 
-This is the documentation for the GOOS BioEco
-[portal](https://bioeco.goosocean.org/) and
-[GeoNode](https://geonode.goosocean.org/). More general GeoNode
+This is the documentation for the 
+[GOOS BioEco portal](https://bioeco.goosocean.org/) and
+[GOOS BioEco GeoNode](https://geonode.goosocean.org/). More general GeoNode
 documentation is available at <https://docs.geonode.org/en/master/>. The source for this documentation is hosted at
 <https://github.com/iobis/bioeco-docs>. The full instruction video can be found at <https://www.youtube.com/watch?v=FPUdRK_tZrI>.
 
@@ -13,26 +13,26 @@ documentation is available at <https://docs.geonode.org/en/master/>. The source 
 
 [Video: Navigating the GOOS BioEco Portal](https://www.youtube.com/watch?v=FPUdRK_tZrI)
 
-The portal's main interface **(A)** consist of an interactive global map on which the locations of Biological and Ecosystem EOV observations can be seen. Click on a specific location on the map to get a list of programmes for that location. The panel on the left **(B)** shows the total number of programmes currently in the portal as well as the total number of programmes for specific EOVs. The results in the map can be filtered to show specific **(C)** EOVs, **(D)** EOV sub-variables and EBVs by selecting for them in the panel. Filtering can also be done according to the desired Readiness levels **(E)** of a programme. Specific programmes can also be filtered/ searched for by filtering for them by name **(F)** or by selecting from the list.
+The portal's main interface **(A)** consist of an interactive global map on which the locations of Biological and Ecosystem EOV observations can be seen. Monitoring sites, stations or equipment deployment locations are provided as points on the map. Larger areas of monitoring is is presented as polycons. Line transects are indicated by lines on the map. Click on a specific location on the map to get a list of programmes for that location, or click on a specific point/ polygon to see the pogramme associated with that location. The panel on the left **(B)** shows the total number of programmes currently in the portal as well as the total number of programmes for specific EOVs. The results in the map can be filtered to show specific **(C)** EOVs, **(D)** EOV sub-variables and EBVs by selecting for them in the panel. Filtering can also be done according to the desired Readiness levels **(E)** of a programme. Specific programmes can also be filtered/ searched for by filtering for them by name **(F)** or by selecting from the list.
 
 <p align="center; padding:30px">
   <img width="100%" height="100%" src="images/portal_interface.png"></p>
   
-When selecting an individual programme, a new panel will open containing all the available metadata for that programme **(G)**, as entered and maintained by the metadata provider for that programme. Clicking on <span style="color:gray;">**ZOOM**</span> **(H)** will direct the interactive map to the location of where the monitoring is done, indicated on the map by red dots for individual locations or by a red polygon for areal locations. If no spatial layer is available for the programme, the zoom option is replaced with <span style="color:gray;">**NO SPATIAL DATA**</span>. Additioanlly, an option to <span style="color:gray;">**REPORT ISSUE**</span> is provided with each programme in case it is needed. 
+When selecting an individual programme, or searching for a programme by name, a new panel will open containing all the available metadata for that programme **(G)**, as entered and maintained by the metadata provider for that programme. Clicking on <span style="color:gray;">**ZOOM**</span> **(H)** will direct the interactive map to the location of where the monitoring is done, indicated on the map by red dots for individual locations or by a red polygon for areal locations. If no spatial layer is available for the programme, the zoom option is replaced with <span style="color:gray;">**NO SPATIAL DATA**</span>. Additionally, an option to <span style="color:gray;">**REPORT ISSUE**</span> is provided with each programme in case it is needed. 
 
 <p align="center; padding:30px">
   <img width="80%" height="80%" src="images/demo.png">
 </p>
 
 
-## How to contribute?
+## How to contribute a programme to the BioEco portal?
 
 <img src="images/youtube_icon.png" width="3%" height="3%" style="float:left; padding:1px" />
 
 [Video: How to contribute](https://www.youtube.com/watch?v=FPUdRK_tZrI&t=216s)
 
 
-Contribute your programme metadata or explore additional metadata of existing programmes in the portal by navigating to  [GeoNode](https://geonode.goosocean.org/), where new programme metadata is uploaded and existing programme metadata accessed, managed and updated. This documentation and a direct link to the portal is provided on the main page of GeoNode. 
+Contribute your programme metadata or explore additional metadata of existing programmes in the portal by navigating to  [GOOS BioEco GeoNode](https://geonode.goosocean.org/), where new programme metadata is uploaded and existing programme metadata accessed, managed and updated. This documentation and a direct link to the portal is provided on the main page of GeoNode. 
 
 <img src="images/homepage.png" width="100%" />
 
@@ -145,17 +145,17 @@ about the uploaded programme.
   <img width="70%" height="70%" src="images/edit_layer.png">
 </p>
 
-#### 3.1 Updating programme spatial metadata
+#### 3.1 Updating programme spatial information (map)
 
-Newly contributed programmes' spatial metadata should be kept up to date. Equally, existing programmes that lack spatial metadata should not the following recommendations.
+If the spatial scope of the programme has increased or changed over time, the spatial information (shapefile) should be updated. Equally, programmes that still lack spatial information should follow the same recommendations to upload their programme's spatial scope.
 
 **Option 1:** In order to avoid frustrating errors when updating programme spatial data on GeoNode, carefully consider the format and name of the file(s) you would like to upload. The file name, the name of the layer within the file, and the geometry type used in the file, have to be identical to that of the existing file that is being replaced. 
 
-**Option 2:** Before updating the file, download the layer from GeoNode by selecting <span style="color:gray;">**Download Layer**</span>. The layer data can be downloaded in various formats under <span style="color:gray;">**Pick your download format**</span>, either as the complete original dataset or onyl spatial files. Make the changes to the downloaded files on your device and finally re-upload the file. 
+**Option 2:** Before updating the file, download the layer from GeoNode by selecting <span style="color:gray;">**Download Layer**</span>. The layer data can be downloaded in various formats under <span style="color:gray;">**Pick your download format**</span>, either as the complete original dataset or only spatial files. Make the changes to the downloaded files on your device and finally re-upload the file. 
 
 **Option 3:** If all else fails, delete the existing layer and create a new layer all together. This option might be a bit more time consuming as it will require providng all the programme metadata once again, but will ensure that there are no issues with file types.
 
-**Option 4:** For layers with geometry type *LineString*, which might be more complicated to transform and will cause issues if the updated files do not have the same geometry type. In these cases, the geometry would most likely need to be changed in the database. If this is the case with your layer and you experience difficulty uploading updated files, please get in touch with admin either by sending an email to p.provoost@unesco.org / s.van-der-wal@unesco.org / or helpdesk@obis.org, or create an issue [here](https://github.com/iobis/bioeco-geonode/issues). 
+**Option 4:** For layers with geometry type *LineString*, which might be more complicated to transform and will cause issues if the updated files do not have the same geometry type. In these cases, the geometry would most likely need to be changed in the database. If this is the case with your layer and you experience difficulty uploading updated files, please get in touch with admin either by sending an email to s.van-der-wal@unesco.org / or helpdesk@obis.org, or create an issue [here](https://github.com/iobis/bioeco-geonode/issues). 
 <p>&nbsp;</p>
 
 <img src="images/fields.png" width="50%" height="50%" style="float:left" />
@@ -164,7 +164,7 @@ Newly contributed programmes' spatial metadata should be kept up to date. Equall
 
 Provide a <span style="color:gray;">**Title**</span> and an <span style="color:gray;">**Abstract**</span> with a short introduction to/ basic info on the monitoring programme. The <span style="color:gray;">**Owner**</span> will be indicated as the metadata provider that uploaded the metadata indicated either by their email address or username. <span style="color:gray;">**Edition**</span> refers to the version of the cited resource, which could be useful when frequent updates to the metadata are made. 
 
-The field for <span style="color:gray;">**DOI**</span> will be completed by admin and should be left open. <span style="color:gray;">**Maintenance frequency**</span> refer to the intervals in which data is collected/ observations are made. Choose from the drop-down selection. Note, for observations made continuously, select option 'sub-daily' and for once-off observations, select the option 'opportunistically/ highly irregular intervals'. A space is provided for <span style="color:gray;">**Free-text Keywords**</span> that are useful for user filtering options. Select the applicable <span style="color:gray;">**Regions**</span> where the monitoring is done, please refrain from selecting <span style="color:gray;">**Global**</span> as the region and provide more specific regions.
+The field for <span style="color:gray;">**DOI**</span> will be completed by admin and should be left open. <span style="color:gray;">**Maintenance frequency**</span> refer to the intervals in which data is collected/ observations are made. Choose from the drop-down selection. Note, for observations made continuously, select option 'sub-daily' and for once-off observations, select the option 'opportunistically/ highly irregular intervals'. A space is provided for <span style="color:gray;">**Free-text Keywords**</span> that are useful for user filtering options. Select the applicable <span style="color:gray;">**Regions**</span> (countries) where the monitoring is done. Note that newly uploaded programmes can have default Regions which should be revised.
 
 <p>&nbsp;</p>
 
@@ -178,11 +178,14 @@ The fields <span style="color:gray;">**Metadata uploaded preserve**</span>, <spa
 
 Provide a URL or link to the main <span style="color:gray;">**Project website**</span> of the monitoring project, a link to <span style="color:gray;">**SOPs**</span> used and/ or <span style="color:gray;">**Outputs**</span>, where available. 
 
-Please indicate whether or not the programme data is published on the OBIS database under <span style="color:gray;">**In OBIS**</span> and indicate if the data provider/ project managers are <span style="color:gray;">**Interested in publishing to OBIS**</span>. 
+Please indicate whether or not the programme data is available (or partly available) in OBIS, under <span style="color:gray;">**In OBIS**</span>; and indicate if the data provider/ project managers are <span style="color:gray;">**Interested in publishing to OBIS**</span>. 
 
-Indicate the funder/s of the monitoring programme under <span style="color:gray;">**Funding**</span> and specify the <span style="color:gray;">**Funding sector **</span> of the funder/s by choosing from the drop-down selection. 
+Indicate the names of the funder(s) of the monitoring programme under <span style="color:gray;">**Funding**</span> and specify the <span style="color:gray;">**Funding sector **</span> of the funder(s) by choosing from the drop-down selection. 
 
-An email address for the <span style="color:gray;">**Point of contact**</span> for the responsible person providing the information is required as well as the full name of the <span style="color:gray;">**Metadata author**</span>. 
+The username of the <span style="color:gray;">**Point of contact**</span> or the person reponsible for providing the information is required, as well as the username of the <span style="color:gray;">**Metadata author**</span>. 
+Note: Only registered users can be a programme's <span style="color:gray;">**Point of contact**</span> and/ or <span style="color:gray;">**Metadata author**</span>. 
+Note: Programme metadata can only be edited and/ or added by the "owner" of the layer, thus, the <span style="color:gray;">**Point of contact**</span>.
+To change ownership of the layer, or change the <span style="color:gray;">**Point of contact**</span>, please contact admin or [Report an issue](https://github.com/iobis/bioeco-geonode/issues)
 
 <p>&nbsp;</p>
 
