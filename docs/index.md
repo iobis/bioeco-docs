@@ -135,7 +135,7 @@ Registered users have exclusive access to edit and update the metadata of their 
 By selecting <span style="color:gray;">**Editing Tools**</span> on the
 right hand panel, the spatial- and metadata layer can be edited, removed or updated.  
 
-Only the signed-in owner of a programme and admin have access to edit the metadata of a programme. If the editing tools are not available to the owner, it is likely due to the default setting of admin as owner. In this case, please contact admin at s.van-der-wal@unesco.org / helpdesk@obis.org to have the ownership changed and gain access to the editing tools.     
+Only the signed-in owner of a programme and admin have access to edit the metadata of a programme. If the editing tools are not available to the owner, it is likely due to the default setting of admin as owner. In this case, please contact admin at helpdesk@obis.org to have the ownership changed and gain access to the editing tools.     
 
 To edit, or add to the spatial layer select <span style="color:gray;">**Edit data**</span> under <span style="color:gray;">**Layer**</span>. Select <span style="color:gray;">**Advanced Edit**</span> under <span
 style="color:gray;">**Metadata**</span> to provide necessary information
@@ -155,7 +155,7 @@ If the spatial scope of the programme has increased or changed over time, the sp
 
 **Option 3:** If all else fails, delete the existing layer and create a new layer all together. This option might be a bit more time consuming as it will require providng all the programme metadata once again, but will ensure that there are no issues with file types.
 
-**Option 4:** For layers with geometry type *LineString*, which might be more complicated to transform and will cause issues if the updated files do not have the same geometry type. In these cases, the geometry would most likely need to be changed in the database. If this is the case with your layer and you experience difficulty uploading updated files, please get in touch with admin either by sending an email to s.van-der-wal@unesco.org / or helpdesk@obis.org, or create an issue [here](https://github.com/iobis/bioeco-geonode/issues). 
+**Option 4:** For layers with geometry type *LineString*, which might be more complicated to transform and will cause issues if the updated files do not have the same geometry type. In these cases, the geometry would most likely need to be changed in the database. If this is the case with your layer and you experience difficulty uploading updated files, please get in touch with admin either by sending an email to helpdesk@obis.org, or create an issue [here](https://github.com/iobis/bioeco-geonode/issues). 
 <p>&nbsp;</p>
 
 <img src="images/fields.png" width="50%" height="50%" style="float:left" />
